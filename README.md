@@ -1,4 +1,4 @@
-# flui
+# Flutter Tech App
 
 A new Flutter project.
 
