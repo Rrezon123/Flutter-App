@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029075173223",
+    "firebase_url": "https://evohack-eb2bb.firebaseio.com",
+    "project_id": "evohack-eb2bb",
+    "storage_bucket": "evohack-eb2bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029075173223:android:1cbcfe51609dae9f9679c2",
+        "android_client_info": {
+          "package_name": "com.example.flui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029075173223-pst8mu66lrmi5tiesrbl7f98b2olh10v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBiY90_8UoiIJlAOuiIiy3K5gUrhqZi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029075173223-pst8mu66lrmi5tiesrbl7f98b2olh10v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
